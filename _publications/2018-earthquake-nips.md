@@ -1,7 +1,7 @@
 ---
 title: ' Reliable Real-Time Signal/Noise Discrimination with Deep and Shallow Machine Learning Classifiers'
 authors: 'Men-Andrin Meier, Zachary Ross, Anshul Ramachandran, Ashwin Balakrishna, Suraj Nair, Peter Kundzicz, Zefeng Li, Egill Hauksson, Jennifer Andrews'
-venue: 'NIPS Workshop'
+venue: 'NeurIPS Workshop'
 date: 2018-12-03
 category: 'published'
 pdf: '2018-earthquake-nips.pdf'
