@@ -5,7 +5,7 @@ venue: 'Journal of Geophysical Research: Solid Earth'
 date: 2018-12-29
 category: 'published'
 pdf: '2018-earthquake-journal.pdf'
-teaser: '2018-earthquake-journal.png'
+teaser: '2018-earthquake-nips.png'
 permalink: /publication/2018-earthquake-journal
 collection: publications
 ---
