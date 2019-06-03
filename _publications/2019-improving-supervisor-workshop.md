@@ -1,5 +1,5 @@
 ---
-title: 'Extending Deep Model Predictive Control with Safety Augmented Value Estimation from Demonstrations'
+title: 'On-Policy Imitation Learning from an Improving Supervisor'
 authors: 'Ashwin Balakrishna*, Brijen Thananjeyan*,  Jonathan Lee, Arsh Zahed, Felix Li, Joseph E. Gonzalez, Ken Goldberg'
 venue: 'Real World Sequential Decision Making Workshop at ICML (2019)'
 date: 2019-06-14
