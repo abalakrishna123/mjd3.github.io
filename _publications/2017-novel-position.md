@@ -5,7 +5,7 @@ venue: 'Clinical Ophthalmology'
 date: 2017-05-19
 category: 'published'
 pdf: '2017-novel-position.pdf'
-teaser: '2017-novel-position.png'
+teaser: '2017-novel-position-new.png'
 permalink: /publication/2017-novel-position
 collection: publications
 ---
