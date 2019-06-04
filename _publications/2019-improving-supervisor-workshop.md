@@ -5,7 +5,7 @@ venue: 'Real World Sequential Decision Making Workshop at ICML'
 date: 2019-06-14
 category: 'published'
 pdf: '2019-improving-supervisor-workshop.pdf'
-teaser: '2019-improving-supervisor-workshop.png'
+teaser: '2019-improving-supervisor-workshop-new.png'
 permalink: /publication/2019-improving-supervisor-workshop
 collection: publications
 ---
