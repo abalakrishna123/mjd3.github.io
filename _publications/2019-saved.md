@@ -1,7 +1,7 @@
 ---
 title: 'Extending Deep Model Predictive Control with Safety Augmented Value Estimation from Demonstrations'
 authors: 'Brijen Thananjeyan*, Ashwin Balakrishna*,  Ugo Rosolia, Felix Li, Rowan McAllister, Joseph E. Gonzalez, Sergey Levine, Francesco Borrelli, Ken Goldberg'
-venue: 'Conference on Neural Information Processing Systems (2019)'
+venue: 'Conference on Neural Information Processing Systems'
 date: 2019-12-08
 category: 'submitted'
 pdf: '2019-saved.pdf'
