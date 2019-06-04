@@ -1,7 +1,7 @@
 ---
 title: 'On-Policy Imitation Learning from an Improving Supervisor'
 authors: 'Ashwin Balakrishna*, Brijen Thananjeyan*,  Jonathan Lee, Arsh Zahed, Felix Li, Joseph E. Gonzalez, Ken Goldberg'
-venue: 'Real World Sequential Decision Making Workshop at ICML (2019)'
+venue: 'Real World Sequential Decision Making Workshop at ICML'
 date: 2019-06-14
 category: 'published'
 pdf: '2019-improving-supervisor-workshop.pdf'
