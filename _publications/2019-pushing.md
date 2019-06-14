@@ -2,7 +2,7 @@
 title: 'Automating Planar Object Singulation by Linear Pushing with Single-point and Multi-point Contacts'
 authors: 'Zisu Dong, Sanjay Krishnan, Sona Dolasia, Ashwin Balakrishna, Michael Danielczuk, and Ken Goldberg'
 venue: 'Conference on Automation Science and Engineering'
-date: 2019-22-08
+date: 2019-08-22
 category: 'published'
 pdf: '2019-pushing.pdf'
 teaser: '2019-pushing.png'
