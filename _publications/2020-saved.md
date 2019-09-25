@@ -4,7 +4,7 @@ authors: 'Brijen Thananjeyan*, Ashwin Balakrishna*, Ugo Rosolia, Felix Li, Rowan
 venue: 'IEEE Robotics and Automation Letters (RA-L) and IEEE International Conference on Robotics and Automation (ICRA)'
 date: 2020-05-31
 category: 'submitted'
-pdf: '2020-saved.pdf'
+pdf: '2020_saved.pdf'
 teaser: '2020-saved.png'
 permalink: /publication/2020-saved
 collection: publications
