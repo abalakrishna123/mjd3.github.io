@@ -14,8 +14,8 @@ that are reliable and robust enough to safely deploy on robotic systems. I am cu
 
 Recent News
 ------
-* Presented a poster and gave a spotlight presentation on Mechanical Search at the 2018 Bay Area Robotics Symposium at Stanford University.
 * Our paper, On-Policy Robot Imitation Learning from a Converging Supervisor was accepted for an oral presentation at CoRL 2019 in Osaka, Japan.
 * Our paper, Deep Model Predictive Control with Safety Augmented Value Estimation from Demonstrations was accepted at the Deep Reinforcement Learning Workshop at NeurIPS 2019.
+* Presented a poster and gave a spotlight presentation on Mechanical Search at the 2018 Bay Area Robotics Symposium at Stanford University.
 
 
