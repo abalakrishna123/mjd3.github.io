@@ -1,6 +1,6 @@
 ---
 title: 'Fabry–Pérot Optical Sensor and Portable Detector for Monitoring High-Resolution Ocular Hemodynamics'
-authors: Jeong Oen Lee, Vinayak Narasimhan, Ashwin Balakrishna, Marcus R. Smith, Juan Du, David Sretavan, and Hyuck Choo'
+authors: Jeong Oen Lee, Vinayak Narasimhan, Ashwin Balakrishna, Marcus R. Smith, Juan Du, David Sretavan, and Hyuck Choo
 venue: 'IEEE Photonics Letters'
 date: 2019-03-15
 category: 'published'
