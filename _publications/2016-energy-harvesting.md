@@ -1,6 +1,6 @@
 ---
-title: 'A microscale optical implant for continuous in vivo monitoring of intraocular pressure'
-authors: Jeong Oen Lee, Haeri Park, Juan Du, Ashwin Balakrishna, Oliver Chen, David Stretavan, Hyuck Choo'
+title: 'Efficient Power Generation from Vocal Fold Vibrations for Medical Electronic Implants'
+authors: Hyunjun Cho, Ashwin Balakrishna, Yuan Ma, Joen Oen Lee, Hyuck Choo'
 venue: 'IEEE 29th International Conference on Micro Electro Mechanical Systems (MEMS)'
 date: 2016-01-24
 category: 'published'
