@@ -1,7 +1,7 @@
 ---
 title: ' Reliable Real-time Seismic Signal/Noise Discrimination with Machine Learning'
 authors: 'Men-Andrin Meier, Zachary Ross, Anshul Ramachandran, Ashwin Balakrishna, Suraj Nair, Peter Kundzicz, Zefeng Li, Egill Hauksson, Jennifer Andrews, Yisong Yue'
-venue: 'Journal of Geophysical Research: Solid Earth'
+venue: 'Journal of Geophysical Research: Solid Earth and NeurIPS Geochemical Signals Workshop'
 date: 2018-12-29
 category: 'published'
 pdf: '2018-earthquake-journal.pdf'
