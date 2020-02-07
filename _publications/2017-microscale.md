@@ -1,6 +1,6 @@
 ---
 title: 'A microscale optical implant for continuous in vivo monitoring of intraocular pressure'
-authors: Jeong Oen Lee, Haeri Park, Juan Du, Ashwin Balakrishna, Oliver Chen, David Stretavan, Hyuck Choo'
+authors: Jeong Oen Lee, Haeri Park, Juan Du, Ashwin Balakrishna, Oliver Chen, David Stretavan, Hyuck Choo
 venue: 'Microsystems and Nanoengineering'
 date: 2017-12-18
 category: 'published'
