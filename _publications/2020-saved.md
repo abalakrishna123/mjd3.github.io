@@ -1,9 +1,9 @@
 ---
 title: 'Safety Augmented Value Estimation from Demonstrations (SAVED): Safe Deep Model-Based RL for Sparse Cost Robotic Tasks'
 authors: 'Brijen Thananjeyan*, Ashwin Balakrishna*, Ugo Rosolia, Felix Li, Rowan McAllister, Joseph E. Gonzalez, Sergey Levine, Francesco Borrelli, Ken Goldberg'
-venue: 'IEEE Robotics and Automation Letters (RA-L) and IEEE International Conference on Robotics and Automation (ICRA)'
+venue: 'IEEE Robotics and Automation Letters (RA-L), IEEE International Conference on Robotics and Automation (ICRA), and NeurIPS Deep Reinforcement Learning Workshop'
 date: 2020-05-31
-category: 'submitted'
+category: 'published'
 pdf: '2020_saved.pdf'
 teaser: '2020-saved.png'
 permalink: /publication/2020-saved
