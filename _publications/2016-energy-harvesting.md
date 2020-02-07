@@ -1,6 +1,6 @@
 ---
 title: 'Efficient Power Generation from Vocal Fold Vibrations for Medical Electronic Implants'
-authors: Hyunjun Cho, Ashwin Balakrishna, Yuan Ma, Joen Oen Lee, Hyuck Choo
+authors: Hyunjun Cho, Ashwin Balakrishna, Yuan Ma, Joeng Oen Lee, Hyuck Choo
 venue: 'IEEE 29th International Conference on Micro Electro Mechanical Systems (MEMS)'
 date: 2016-01-24
 category: 'published'
