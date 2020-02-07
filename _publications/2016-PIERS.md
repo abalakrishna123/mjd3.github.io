@@ -4,9 +4,9 @@ authors: 'Ashwin Balakrishna, Oliver Chen, Jeong Oen Lee, Hyuck Choo'
 venue: 'PIERS 2016 (Oral Presentation)'
 date: 2016-08-11
 category: 'published'
-pdf: '2020_PIERS.pdf'
-teaser: '2020_PIERS.png'
-permalink: /publication/2020-piers
+pdf: '2016-PIERS.pdf'
+teaser: '2016-PIERS.png'
+permalink: /publication/2016-piers
 collection: publications
 ---
 
