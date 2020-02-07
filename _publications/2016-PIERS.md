@@ -1,6 +1,6 @@
 ---
 title: 'A Neural Network Approach to Monitor Intraocular Pressure for Glaucoma Diagnosis'
-authors: 'Ashwin Balakrishna, Oliver Chen, Jeong Oen Lee, Hyuck Choo'
+authors: Ashwin Balakrishna, Oliver Chen, Jeong Oen Lee, Hyuck Choo
 venue: 'PIERS (Oral Presentation)'
 date: 2016-08-11
 category: 'published'
