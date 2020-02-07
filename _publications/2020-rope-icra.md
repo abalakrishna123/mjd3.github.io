@@ -1,6 +1,6 @@
 ---
 title: 'Learning Interpretable and Transferable Rope Manipulation Policies Using Depth Sensing and Dense Object Descriptors'
-authors: 'Priya Sundaresan, Jeniffer, Grannen, Brijen Thananjeyan, Ashwin Balakrishna, Michael Laskey, Kevine Stone, Joseph E. Gonzalez, Ken Goldberg'
+authors: 'Priya Sundaresan, Jeniffer, Grannen, Brijen Thananjeyan, Ashwin Balakrishna, Michael Laskey, Kevin Stone, Joseph E. Gonzalez, Ken Goldberg'
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 date: 2020-05-31
 category: 'submitted'
