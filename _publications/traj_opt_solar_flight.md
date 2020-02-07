@@ -1,7 +1,8 @@
 ---
 title: 'Optimal Control Strategies for Trajectory Optimization with Applications to Continuous Solar Flight'
 authors: Ashwin Balakrishna
-venue: 'INFORMS Annual Meeting'
+venue: 'Oral Presentation at INFORMS Annual Meeting,
+E=mc2 High School Mathematical Science Journal, Intel Science Talent Search Semifinalist'
 date: 2013-10-6
 category: 'published'
 pdf: 'traj_opt_solar_flight_2014.pdf'
