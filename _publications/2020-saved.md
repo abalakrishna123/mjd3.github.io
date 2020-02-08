@@ -4,7 +4,7 @@ authors: 'Brijen Thananjeyan*, Ashwin Balakrishna*, Ugo Rosolia, Felix Li, Rowan
 venue: 'IEEE Robotics and Automation Letters, International Conference on Robotics and Automation (ICRA), and Conference on Neural Information Processing Systems (NeurIPS) Deep Reinforcement Learning Workshop'
 date: 2020-05-31
 category: 'published'
-pdf: '2020_saved.pdf'
+pdf: '2020-saved.pdf'
 teaser: '2020-saved.png'
 permalink: /publication/2020-saved
 collection: publications
