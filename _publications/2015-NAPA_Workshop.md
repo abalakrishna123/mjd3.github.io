@@ -5,6 +5,7 @@ venue: 'NAPA Institute Workshop on Enabling Future Health Care: the Role of Micr
 date: 2015-08-24
 category: 'published'
 pdf: '2015-NAPA_Workshop.pdf'
+bibtex: '2015-NAPA_Workshop.bib'
 teaser: '2015-NAPA_Workshop.png'
 permalink: /publication/2015-NAPA_Workshop
 collection: publications
