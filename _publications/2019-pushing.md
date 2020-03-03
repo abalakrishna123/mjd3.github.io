@@ -5,7 +5,7 @@ venue: 'Conference on Automation Science and Engineering'
 date: 2019-08-22
 category: 'published'
 pdf: '2019-pushing.pdf'
-bib: '2019-pushing.bib'
+bibtex: '2019-pushing.bib'
 teaser: '2019-pushing.png'
 permalink: /publication/2019-pushing
 collection: publications
