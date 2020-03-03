@@ -5,6 +5,7 @@ venue: 'Microsystems and Nanoengineering'
 date: 2017-12-18
 category: 'published'
 pdf: '2017-microscale.pdf'
+bibtex: '2017-microscale.bib'
 teaser: '2017-microscale.png'
 permalink: /publication/2017-microscale
 collection: publications
