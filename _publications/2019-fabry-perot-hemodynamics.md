@@ -5,6 +5,7 @@ venue: 'IEEE Photonics Letters'
 date: 2019-03-15
 category: 'published'
 pdf: '2019-fabry-perot-hemodynamics.pdf'
+bibtex: '2019-fabry-perot-hemodynamics.bib'
 teaser: '2019-hemodynamics.png'
 permalink: /publication/2019-hemodynamics
 collection: publications
