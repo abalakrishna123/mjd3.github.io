@@ -5,6 +5,7 @@ venue: 'Clinical Ophthalmology'
 date: 2016-05-25
 category: 'published'
 pdf: '2016-postoperative.pdf'
+bibtex: '2016-postoperative.bib'
 teaser: '2016-postoperative.png'
 permalink: /publication/2016-postoperative
 collection: publications
