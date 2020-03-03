@@ -5,6 +5,7 @@ venue: 'PIERS (Oral Presentation)'
 date: 2016-08-11
 category: 'published'
 pdf: '2016-PIERS.pdf'
+bibtex: '2016-PIERS.bib'
 teaser: '2016-PIERS.png'
 permalink: /publication/2016-piers
 collection: publications
