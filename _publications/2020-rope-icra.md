@@ -5,6 +5,7 @@ venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 date: 2020-05-31
 category: 'published'
 pdf: '2020_ICRA_Rope.pdf'
+bibtex: '2020_ICRA_Rope.bib'
 teaser: '2020_ICRA_Rope.png'
 permalink: /publication/2020-rope-icra
 collection: publications
