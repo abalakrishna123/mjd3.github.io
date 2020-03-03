@@ -5,6 +5,7 @@ venue: 'Conference on Robot Learning (CoRL) - Oral Presentation and Internationa
 date: 2019-10-30
 category: 'accepted'
 pdf: '2019-converging-supervisors.pdf'
+bibtex: '2019-converging-supervisors.bib'
 teaser: '2019-converging-supervisors.png'
 permalink: /publication/2019-converging-supervisors
 collection: publications
