@@ -5,6 +5,7 @@ venue: 'Interenational Symposium on Optomechatronic Technology Invited Talk'
 date: 2016-06-05
 category: 'published'
 pdf: '2016-invivo-monitor.pdf'
+bib: '2016-invivo-monitor.bib'
 teaser: '2016-invivo-monitor.png'
 permalink: /publication/2016-invivo-monitor
 collection: publications
