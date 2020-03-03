@@ -5,6 +5,7 @@ venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 date: 2019-05-20
 category: 'published'
 pdf: '2019-mech-search.pdf'
+bibtex: '2019-mech-search.bib'
 teaser: '2019-mech-search.png'
 permalink: /publication/2019-mech-search
 collection: publications
