@@ -6,6 +6,7 @@ E=mc2 High School Mathematical Science Journal, Intel Science Talent Search Semi
 date: 2013-10-6
 category: 'published'
 pdf: 'traj_opt_solar_flight_2014.pdf'
+bibtex: 'traj_opt_solar_flight_2014.bib'
 teaser: 'traj_opt_solar_flight_2014.png'
 permalink: /publication/2013-traj_opt_solar_flight
 collection: publications
