@@ -5,7 +5,7 @@ venue: 'IEEE Robotics and Automation Letters, International Conference on Roboti
 date: 2020-05-31
 category: 'published'
 pdf: '2020-saved.pdf'
-bibtex: '2018-saved.bib'
+bibtex: '2020-saved.bib'
 teaser: '2020-saved.png'
 permalink: /publication/2020-saved
 collection: publications
