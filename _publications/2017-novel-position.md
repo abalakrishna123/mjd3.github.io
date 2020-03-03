@@ -13,7 +13,7 @@ collection: publications
 
 Abstract
 -------
-Introduction: Repair of retinal detachment frequently requires use of intraocular gas. Patients are instructed to position themselves postoperatively to appose the intraocular bubble to the retinal break(s). We developed a novel wearable wireless positioning sensor, which provides real-time audiovisual feedback on the accuracy of positioning.
+Repair of retinal detachment frequently requires use of intraocular gas. Patients are instructed to position themselves postoperatively to appose the intraocular bubble to the retinal break(s). We developed a novel wearable wireless positioning sensor, which provides real-time audiovisual feedback on the accuracy of positioning.
 Methods: Eight healthy volunteers wore the wireless sensor for 3 hours while instructed to maintain their head tilted toward the 2 o’clock meridian with no audiovisual feedback. Positioning accuracy was recorded. The subjects repeated the experiment for 3 hours with the
 audiovisual feedback enabled.
 Results: With no audiovisual feedback, the percentage of time greater than 10° out of position varied from 8.9% to 93.9%. With audiovisual feedback enabled, these percentages ranged from 9.4% to 65%. Three subjects showed significant improvement in their time out of position
