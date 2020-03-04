@@ -5,6 +5,7 @@ venue: 'Workshop on the Algorithmic Foundations of Robotics'
 date: 2020-06-15
 category: 'submitted'
 pdf: '2020-abc-lmpc.pdf'
+bibtex: '2020-abc-lmpc.bib'
 teaser: '2020-abc-lmpc.png'
 permalink: /publication/2020-abc-lmpc
 collection: publications
