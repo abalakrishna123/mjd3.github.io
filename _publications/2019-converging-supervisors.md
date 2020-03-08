@@ -3,7 +3,7 @@ title: 'On-Policy Robot Imitation Learning from a Converging Supervisor'
 authors: 'Ashwin Balakrishna*, Brijen Thananjeyan*, Jonathan Lee, Felix Li, Arsh Zahed, Joseph E. Gonzalez, Ken Goldberg'
 venue: 'Conference on Robot Learning (CoRL) - Oral Presentation and International Conference on Machine Learning (ICML) Real World Sequential Decision Making Workshop'
 date: 2019-10-30
-category: 'accepted'
+category: 'published'
 pdf: '2019-converging-supervisors.pdf'
 bibtex: '2019-converging-supervisors.bib'
 teaser: '2019-converging-supervisors.png'
