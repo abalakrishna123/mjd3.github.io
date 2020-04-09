@@ -14,6 +14,6 @@ that are reliable and robust enough to safely deploy on robotic systems. I am cu
 
 Recent News
 ------
-* Our paper, ABC-LMPC: Safe Sample-Based Learning MPC for Stochastic Nonlinear Dynamical Systems with Adjustable Boundary Conditions has been accepted for presentation at the Workshop on the Algorithmic Foundations for Robotics (WAFR).
+* Our paper, ABC-LMPC: Safe Sample-Based Learning MPC for Stochastic Nonlinear Dynamical Systems with Adjustable Boundary Conditions has been accepted for presentation at the Workshop on the Algorithmic Foundations of Robotics (WAFR).
 * Our papers, Safety Augmented Value Estimation from Demonstrations (SAVED): Safe Deep Model-Based RL for Sparse Cost Robotic Tasks and Learning Interpretable and Transferable Rope Manipulation Policies Using Depth Sensing and Dense Object Descriptors have been accepted for presentation at ICRA 2020 in Paris, France.
 * Our paper, On-Policy Robot Imitation Learning from a Converging Supervisor was accepted for an oral presentation at CoRL 2019 in Osaka, Japan.
