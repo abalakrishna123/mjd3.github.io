@@ -3,7 +3,7 @@ title: 'ABC-LMPC: Safe Sample-Based Learning MPC for Stochastic Nonlinear Dynami
 authors: 'Brijen Thananjeyan*, Ashwin Balakrishna*, Ugo Rosolia, Joseph E. Gonzalez, Aaron Ames, Ken Goldberg'
 venue: 'Workshop on the Algorithmic Foundations of Robotics'
 date: 2020-06-15
-category: 'submitted'
+category: 'accepted'
 pdf: '2020-abc-lmpc.pdf'
 bibtex: '2020-abc-lmpc.bib'
 teaser: '2020-abc-lmpc.png'
