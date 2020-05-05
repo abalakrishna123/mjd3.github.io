@@ -3,7 +3,7 @@ title: 'VisuoSpatial Foresight for Multi-Step, Multi-Task Fabric Manipulation'
 authors: 'Ryan Hoque*, Daniel Seita*, Ashwin Balakrishna, Aditya Ganapathi, Ajay Kumar Tanwani, Nawid Jamili, Katsu Yamane, Soshi Iba, Ken Goldberg'
 venue: 'Robotics Science and Systems (RSS)'
 date: 2020-07-12
-category: 'submitted'
+category: 'accepted'
 pdf: '2020-vis-mpc-fabric.pdf'
 bibtex: '2020-vis-mpc-fabric.bib'
 teaser: '2020-vis-mpc-fabric.png'
