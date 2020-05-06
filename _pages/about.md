@@ -16,5 +16,5 @@ Some of my past work has focused on machine learning and signal processing techn
 Recent News
 ------
 * Our paper, VisuoSpatial Foresight for Multi-Step, Multi-Task Fabric Manipulation has been accepted at Robotics Science and Systems (RSS) 2020.
-* Our paper, ABC-LMPC: Safe Sample-Based Learning MPC for Stochastic Nonlinear Dynamical Systems with Adjustable Boundary Conditions has been accepted at the Workshop on the Algorithmic Foundations of Robotics (WAFR).
+* Our paper, ABC-LMPC: Safe Sample-Based Learning MPC for Stochastic Nonlinear Dynamical Systems with Adjustable Boundary Conditions has been accepted at the Workshop on the Algorithmic Foundations of Robotics (WAFR) 2020.
 * Our paper, Safety Augmented Value Estimation from Demonstrations (SAVED): Safe Deep Model-Based RL for Sparse Cost Robotic Tasks has been accepted at the International Conference on Robotics and Automation (ICRA) 2020 and for publication in the Robotics and Automation Letters (RA-L) Journal.
