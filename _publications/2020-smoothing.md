@@ -3,7 +3,7 @@ title: 'Deep Imitation Learning of Sequential Fabric Smoothing From an Algorithm
 authors: 'Daniel Seita, Aditya Ganapathi, Ryan Hoque, Minho Hwang, Edward Cen, Ajay Kumar Tanwani, Ashwin Balakrishna, Brijen Thananjeyan, Jeffrey Ichnowski, Nawid Jamali, Katsu Yamane, Soshi Iba, John F. Canny, Ken Goldberg'
 venue: 'International Conference on Intelligent Robots and Systems (IROS)'
 date: 2020-10-25
-category: 'submitted'
+category: 'accepted'
 pdf: '2020-smoothing.pdf'
 bibtex: '2020-smoothing.bib'
 teaser: '2020-smoothing.png'
